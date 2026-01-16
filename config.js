@@ -56,7 +56,7 @@ const config = {
       "title": "The Challenge",
       "paragraphs": [
         "Finding a well-maintained older condo in the highly sought-after Yonge and Bloor area that met her exacting standards for quality and community",
-        "Needing to be within walking distance of her mother while her partner Kyle required proximity to his Toronto workplace—a very specific geographic constraint",
+        "Needing to be within walking distance of her mother while her partner Kyle required proximity to his Toronto workplace, a very specific geographic constraint",
         "Owning a property in another city that had to sell before she could close on her Toronto dream home",
         "Fearing hidden issues with the property and the stress of coordinating two major real estate transactions simultaneously"
       ],
@@ -67,22 +67,19 @@ const config = {
       "title": "The Strategy",
       "paragraphs": [
         "Maintained a two-year relationship built on patience and trust, never pressuring but always staying connected until the timing was right",
-        "Strategically curated viewings to show only properties that truly matched her criteria—resulting in finding \"the one\" after viewing just 3 condos",
+        "Strategically curated viewings to show only properties that truly matched her criteria, resulting in finding \"the one\" after viewing just 3 condos",
         "Negotiated aggressively to secure a stunning $109,000 reduction below asking price in a market where most buyers were overpaying",
         "Convinced the listing agent to accept an unprecedented \"sale of property\" condition for 2 months, tying up her dream condo while we sold her existing property",
-        "Coordinated both transactions flawlessly—selling her other condo in just 1.5 weeks and aligning both closing dates perfectly",
+        "Coordinated both transactions flawlessly, selling her other condo in just 1.5 weeks and aligning both closing dates perfectl",
         "Navigated a closing crisis when the seller caused delays, maintaining nerves of steel while lawyers doubted the deal would close, ultimately securing the RIGHT result for my client"
       ],
-      "testimonial": {
-        "quote": "\"\"Veronika took care of me so well throughout this entire process. I felt completely safe putting my trust in her hands—not just with my move, but with my life during this transition. She understood exactly what I needed and acted in my best professional interest every single step of the way. When things got stressful during closing, she had the experience and nerve to handle situations that would have fallen apart with another agent. I took her advice, trusted her completely, and I'm so grateful I did.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After staying in touch for over two years, she called me out of the blue. She was going on sabbatical and didn't think the timing was right—but one conversation led to another. We started casually viewing properties online and in person, and within six months, she found her perfect condo. The connection mattered. She didn't just want an agent—she wanted someone who understood her, someone she could trust with one of the biggest decisions of her life."
+        "After staying in touch for over two years, she called me out of the blue. She was going on sabbatical and didn't think the timing was right—but one conversation led to another. We started casually viewing properties online and in person, and within six months, she found her perfect condo. The connection mattered. She didn't just want an agent, she wanted someone who understood her, someone she could trust with one of the biggest decisions of her life."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768349859711-Screenshot 2026-01-13 at 7.16.19 PM.png"
@@ -93,10 +90,10 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000—a massive win in Toronto's competitive condo market",
+        "<strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000, a massive win in Toronto's competitive condo market",
         "<strong>SOLD IN 1.5 WEEKS</strong>: Listed and sold her existing property in record time, keeping both transactions on track",
         "<strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision",
-        "Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk—a term most sellers would never accept",
+        "Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk, a term most sellers would never accept",
         "Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned",
         "A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
       ],
@@ -116,7 +113,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Personalized Toronto Buyer Strategy Session—Discover Exactly How We'll Find Your Perfect Property and Negotiate Terms Other Agents Won't Even Ask For",
+        "headline": "Book Your Personalized Toronto Buyer Strategy Session. Discover Exactly How We'll Find Your Perfect Property and Negotiate Terms Other Agents Won't Even Ask For",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
