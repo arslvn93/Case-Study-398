@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "After two years of staying connected, my client was ready to make her move back to Toronto. She wasn't just looking for any condo, she needed the perfect location near her aging mother, a reputable building with pride of ownership, and a space she could truly call home. Oh, and she still owned a property in another Ontario city that needed to sell first.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000—a massive win in Toronto's competitive condo market. <strong>SOLD IN 1.5 WEEKS</strong>: Listed and sold her existing property in record time, keeping both transactions on track. <strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision. Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk,a term most sellers would never accept. Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned. A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000, a massive win in Toronto's competitive condo market. <strong>SOLD IN 1.5 WEEKS</strong>: Listed and sold her existing property in record time, keeping both transactions on track. <strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision. Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk,a term most sellers would never accept. Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned. A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands - my client got move-in ready quality at an unbeatable price"
       ]
     },
     "sidebar": {
@@ -71,7 +71,7 @@ const config = {
         "Negotiated aggressively to secure a stunning $109,000 reduction below asking price in a market where most buyers were overpaying",
         "Convinced the listing agent to accept an unprecedented \"sale of property\" condition for 2 months, tying up her dream condo while we sold her existing property",
         "Coordinated both transactions flawlessly, selling her other condo in just 1.5 weeks and aligning both closing dates perfectl",
-        "Navigated a closing crisis when the seller caused delays, maintaining nerves of steel while lawyers doubted the deal would close, ultimately securing the RIGHT result for my client"
+        "Managed unexpected closing delays caused by the seller, coordinating closely with all parties to ensure the transaction ultimately closed successfully."
       ],
       "listItems": []
     },
@@ -79,7 +79,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After staying in touch for over two years, she called me out of the blue. She was going on sabbatical and didn't think the timing was right—but one conversation led to another. We started casually viewing properties online and in person, and within six months, she found her perfect condo. The connection mattered. She didn't just want an agent, she wanted someone who understood her, someone she could trust with one of the biggest decisions of her life."
+        "After staying in touch for over two years, she called me out of the blue. She was going on sabbatical and didn't think the timing was right - but one conversation led to another. We started casually viewing properties online and in person, and within six months, she found her perfect condo. The connection mattered. She didn't just want an agent, she wanted someone who understood her, someone she could trust with one of the biggest decisions of her life."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768349859711-Screenshot 2026-01-13 at 7.16.19 PM.png"
@@ -95,7 +95,7 @@ const config = {
         "<strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision",
         "Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk, a term most sellers would never accept",
         "Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned",
-        "A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
+        "A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands, my client got move-in ready quality at an unbeatable price"
       ],
       "listItems": []
     },
@@ -103,7 +103,7 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "<strong>Timing isn't about perfection—it's about readiness</strong>: My client thought she had to wait for her sabbatical, but when the right property appeared, we made it work. Don't let arbitrary timelines stop you from seizing the right opportunity.",
+        "<strong>Timing isn't about perfection - it's about readiness</strong>: My client thought she had to wait for her sabbatical, but when the right property appeared, we made it work. Don't let arbitrary timelines stop you from seizing the right opportunity.",
         "<strong>The right agent negotiates terms, not just price</strong>: Saving $109,000 was incredible, but securing a 2-month sale condition in this market? That's the kind of creative problem-solving that changes outcomes.",
         "<strong>Experience matters most when things go wrong</strong>: Anyone can write an offer when deals are smooth. When closings get delayed and lawyers lose confidence, you need an agent with the expertise and composure to fight for your interests and get you to the finish line."
       ],
