@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Helped a Relocating Professional Secure Her Dream Condo Next Door to Family—And Save $109,000 in Toronto's Competitive Market",
+      "title": "How We Helped a Relocating Professional Secure Her Dream Condo Next Door to Family, And Save $109,000 in Toronto's Competitive Market",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768349848990-Screenshot 2026-01-13 at 7.15.29 PM.png"
       },
       "subTitle": "Summary",
       "paragraphs": [
         "After two years of staying connected, my client was ready to make her move back to Toronto. She wasn't just looking for any condo—she needed the perfect location near her aging mother, a reputable building with pride of ownership, and a space she could truly call home. Oh, and she still owned a property in another Ontario city that needed to sell first.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000—a massive win in Toronto's competitive condo market <strong>SOLD IN 1.5 WEEKS</strong>: Listed and sold her existing property in record time, keeping both transactions on track <strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk—a term most sellers would never accept Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $109,000</strong>: Negotiated the purchase price down from $999,000 to $890,000—a massive win in Toronto's competitive condo market. <strong>SOLD IN 1.5 WEEKS</strong>: Listed and sold her existing property in record time, keeping both transactions on track. <strong>FOUND IT IN 3 VIEWINGS</strong>: Eliminated the exhausting home search process by showing only properties that truly fit her vision. Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk—a term most sellers would never accept. Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned. A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
       ]
     },
     "sidebar": {
