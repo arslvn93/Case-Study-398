@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Veronika  Zykova",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/veronika-property/30min?month=2026-01",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
