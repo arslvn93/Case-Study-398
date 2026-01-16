@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Veronika  Zykova",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Veronika Zykova",
@@ -26,12 +15,18 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Veronika  Zykova",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped a Relocating Professional Secure Her Dream Condo Next Door to Family—And Save $109,000 in Toronto's Competitive Market",
-    "subheadline": "Found the Perfect Location in Just 3 Viewings—Plus Negotiated a Sale Condition That Made the Impossible Possible"
+    "title": "How We Helped a Relocating Professional Secure Her Dream Condo Next Door to Family, And Save $109,000 in Toronto's Competitive Market",
+    "subheadline": "Found the Perfect Location in Just 3 Viewings, Plus Negotiated a Sale Condition That Made the Impossible Possible"
   },
   "mainBox": {
     "summary": {
@@ -64,7 +59,8 @@ const config = {
         "Needing to be within walking distance of her mother while her partner Kyle required proximity to his Toronto workplace—a very specific geographic constraint",
         "Owning a property in another city that had to sell before she could close on her Toronto dream home",
         "Fearing hidden issues with the property and the stress of coordinating two major real estate transactions simultaneously"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -79,7 +75,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"Veronika took care of me so well throughout this entire process. I felt completely safe putting my trust in her hands—not just with my move, but with my life during this transition. She understood exactly what I needed and acted in my best professional interest every single step of the way. When things got stressful during closing, she had the experience and nerve to handle situations that would have fallen apart with another agent. I took her advice, trusted her completely, and I'm so grateful I did.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -89,7 +86,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768349859711-Screenshot 2026-01-13 at 7.16.19 PM.png"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -101,7 +99,8 @@ const config = {
         "Secured an exceptional 2-month \"sale of property\" condition that allowed her to purchase without risk—a term most sellers would never accept",
         "Connected her with trusted contractors post-purchase to personalize her space exactly how she envisioned",
         "A comparable unit in the same building sold for less afterward but required extensive renovations worth tens of thousands—my client got move-in ready quality at an unbeatable price"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -110,7 +109,8 @@ const config = {
         "<strong>Timing isn't about perfection—it's about readiness</strong>: My client thought she had to wait for her sabbatical, but when the right property appeared, we made it work. Don't let arbitrary timelines stop you from seizing the right opportunity.",
         "<strong>The right agent negotiates terms, not just price</strong>: Saving $109,000 was incredible, but securing a 2-month sale condition in this market? That's the kind of creative problem-solving that changes outcomes.",
         "<strong>Experience matters most when things go wrong</strong>: Anyone can write an offer when deals are smooth. When closings get delayed and lawyers lose confidence, you need an agent with the expertise and composure to fight for your interests and get you to the finish line."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -122,24 +122,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://docs.google.com/document/d/e/2PACX-1vTjKmNELnVNP0k9KCchoXSN02kCMm4wjoxhmZ_z-mZER-GHCDOpI3YkrW4PHiW0LAjIOWLIoyCQnuJq/pub"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1766085828688-IMG_9717.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1752094988620-Property.ca-Logo.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca",
     "brokerageAddress": "36 Distillery Lane Unit 500, Toronto, ON, M5A 3C4",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1752094988620-Property.ca-Logo.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://docs.google.com/document/d/e/2PACX-1vTjKmNELnVNP0k9KCchoXSN02kCMm4wjoxhmZ_z-mZER-GHCDOpI3YkrW4PHiW0LAjIOWLIoyCQnuJq/pub"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-398"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
